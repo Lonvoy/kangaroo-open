@@ -8,4 +8,14 @@ kangaroo-open 是基于red5服务器和ffmpeg 视频格式转换，前端应用b
 
 qq 群：201103806 ，群共享有release 的程序包可以下载使用， 欢迎加入导论
 
+授权信息 ，请参照以下WIKI
+
+/AboutDeploy.wiki
+
+/AboutUsing.wiki
+
+/Usinghelp.wiki
+
+/AboutMe.wiki
+
 演示：http://101.227.247.8:8888/kangaroo/play/id-4028483b4158ee08014159160e6d0005.do
